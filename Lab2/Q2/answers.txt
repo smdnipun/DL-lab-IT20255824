@@ -1,0 +1,3 @@
+1. When you add more hidden parts in the neural network, it can get better at understanding patterns in the data, which usually makes it more accurate. However, this also means you need more data and time to teach the network. There's a danger of it getting too good at the training data and not working well with new data. This is also called overtraining.
+
+2. Making the neural network have more hidden parts often makes it more accurate, but there's a limit. After a point, adding more parts might not help much or could even make things a bit worse, maybe because it starts memorizing the training data too much.

@@ -1,0 +1,6 @@
+
+1. Decide a filter
+Convolution is using a filter. In the example; filter = [-1,1]
+
+2. Apply 1D convolution
+Slide the filter across the 1D signal and perform the element wise multiplication at each position. The sumation of the multiplication represents the response at that point. 
